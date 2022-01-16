@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GameServer
+namespace Card_Game_server
 {
     class GameLogic
     {

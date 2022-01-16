@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace GameServer
+namespace Card_Game_server
 {
     class Program
     {
