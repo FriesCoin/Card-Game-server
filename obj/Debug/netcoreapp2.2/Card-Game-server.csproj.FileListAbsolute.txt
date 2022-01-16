@@ -1,0 +1,11 @@
+/Users/Damian/Documents/GitHub/Card-Game-server/bin/Debug/netcoreapp2.2/Card-Game-server.deps.json
+/Users/Damian/Documents/GitHub/Card-Game-server/bin/Debug/netcoreapp2.2/Card-Game-server.runtimeconfig.json
+/Users/Damian/Documents/GitHub/Card-Game-server/bin/Debug/netcoreapp2.2/Card-Game-server.runtimeconfig.dev.json
+/Users/Damian/Documents/GitHub/Card-Game-server/bin/Debug/netcoreapp2.2/Card-Game-server.dll
+/Users/Damian/Documents/GitHub/Card-Game-server/bin/Debug/netcoreapp2.2/Card-Game-server.pdb
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.csprojAssemblyReference.cache
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.csproj.CoreCompileInputs.cache
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.AssemblyInfoInputs.cache
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.AssemblyInfo.cs
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.dll
+/Users/Damian/Documents/GitHub/Card-Game-server/obj/Debug/netcoreapp2.2/Card-Game-server.pdb
